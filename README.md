@@ -82,7 +82,8 @@ cd server
 npm start
 ```
 
-
+# Demo 
+https://github.com/satyajeet-jha/mern-estate/assets/72481692/3e398f6d-3560-44d9-be60-67eb2a99abc2
 
 
 
